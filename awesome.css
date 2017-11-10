@@ -1,0 +1,15 @@
+body {
+  background-color: #1f1f1f;
+  color: #55ff55;
+  font-size: 2rem;
+  width: 100%;
+  font-family: 'menlo', monospace;
+  letter-spacing: 2px
+}
+.container {
+  padding: 25px;
+  width: 400px;
+}
+.output {
+  color: white;
+}
